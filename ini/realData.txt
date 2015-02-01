@@ -1,0 +1,116 @@
+For TABLE 'university'
+1	Princeton University
+3	Yale University
+8	Duke University
+10	California Institute of Technology
+32	New York University
+18	The University of Texas at Austin
+49	Texas A&M University
+
+For TABLE 'player'
+341242	Kellyn Acosta
+135332	Sam Adekugbe
+939293	Fanendo Adi
+323493	Gale Agbossoumonde
+645433	Tesho Akindele
+929297	Andre Akpan
+828383	Bryce Alderson
+982333	Eric Alexander
+123338	Khalif Alhassan
+
+For TABLE 'coach'
+428929	Frank Yallop	2
+791991	Wilmer Cabrera	3
+182838	Gregg Berhalter	9
+728383	Pablo Mastroeni	1
+192992	Ben Olsen	10
+828282	Dominic Kinnear	348
+192882	Bruce Arena	56
+137293	Jay Heaps	27
+
+For TABLE 'game'
+123134312	2013-02-12	1	1	3
+939293292	2013-04-24	10	32	10
+399129292	2012-09-35	49	10	49
+723998432	2012-10-20	49	18	49
+829943238	2011-11-12	49	32	49
+628394838	2013-10-30	3	3	8
+392818222	2013-09-09	1	1	3
+283727727	2013-08-23	8	8	10
+
+For TABLE 'address'
+1	30	Mortensen Avenue	Salinas	CA	93905
+2	144	Hitchcock Rd	Salinas	CA	93908
+3	20	Lincoln Ave	Salinas	CA	93901
+9	200	Lincoln Ave	Salinas	CA	93901
+10	65	West Alisal St	Salinas	CA	93901
+27	515	East Grand River Upper Level Suite H	East Lansing	MI	48823
+56	8475	Texas 6	Houston	TX	77095
+348	961	College Ave #4	Santa Clara	CA	95050
+4	3421	S. Broadway	Englewood	CO	80113
+5	207	W Main St	Carbondale	IL	62901
+6	2212	W. Armitage	Chicago	IL	60647
+7	808	West Wisconsin Ave.	Appleton	WI	54914
+8	3121	N. Rainbow Blvd.	Las Vegas	NV	89108
+11	437	E 3rd St	Hobart	IN	46342
+12	89	Second St. #5	Coralville	IA	52241
+13	36	Spruce Street	Waltham	MA	02453
+14	48	West 300	North Orem	UT	84057
+15	260	N. University Ave.	Provo	UT	84601
+16	189	East State St	Lehi	UT	84043
+17	6111	Burnet Road	Austin	TX	78757
+19	41125	Winchester Rd. A-2	Temecula	CA	92591
+20	2030	South 900 East, Suite E	Salt Lake City	UT	84105
+21	1406	Harlan Dr	Bellevue	NE	68005
+18	2302	E. Colorado Blvd.	Pasadena	CA	91107
+
+For TABLE 'play_for'
+341242	3
+135332	18
+939293	1
+323493	10
+645433	32
+929297	49
+828383	49
+982333	8
+123338	32
+
+For TABLE 'work_for'
+428929	18
+791991	3
+182838	1
+728383	32
+192992	10
+828282	10
+192882	49
+137293 8
+
+For TABLE 'hold_at'
+123134312	1
+939293292	27
+399129292	348
+723998432	2
+829943238	1
+628394838	56
+392818222	3
+283727727	10
+
+For TABLE 'locate'
+1	5
+3	8
+8	7
+10	6
+32	11
+18	12
+49	13
+
+For TABLE 'live_at'
+341242	21
+135332	19
+939293	18
+323493	20
+645433	15
+929297	16
+828383	17
+982333	15
+123338	14
